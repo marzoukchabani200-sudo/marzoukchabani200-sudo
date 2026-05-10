@@ -30,8 +30,7 @@ En cours de stage
 ✉️ Email
 💼 LinkedIn
 🐙 GitHub
-📋 Générer le code README.md à copier
-// COPIEZ CE CODE DANS VOTRE README.md
+
 <!-- Profile README — Marzouk CHABANI -->
 <h1 align="center">Salut, moi c'est Marzouk 👋</h1>
 <h3 align="center">⚡ Électronique & Informatique Embarquée — Lyon, France</h3>
